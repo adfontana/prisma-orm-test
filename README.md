@@ -1,10 +1,3 @@
-# Rentals Platform
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?repository-url=https%3A%2F%2Fgithub.com%2Fadfontana%2Fprisma-orm-test&env=DATABASE_URL,DATABASE_MIGRATE_URL,PRISMA_CLIENT_ENGINE_TYPE&envDescription=Database%20connection%20strings%20your%20app%20depends%20on.%20You%20should%20switch%20back%20to%20the%20Prisma%20Data%20Platform%20to%20figure%20out%20what%20values%20to%20input%20here.)<br />
-
-![Database Diagram](https://github.com/prisma/prisma-schema-examples/blob/main/rentalsPlatform/diagram.png?raw=true)
-
-(Generated via https://github.com/notiz-dev/prisma-dbml-generator + https://dbdiagram.io)
-
 ### Setting this project up locally
 
 Once you clone your repo, you'll want to set up this repo for local development. In order to start using Prisma locally, you need to make Prisma aware of your database. The most portable way to do this is to use environment variables via a `.env` file.
